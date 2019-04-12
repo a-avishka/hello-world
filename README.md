@@ -1,7 +1,7 @@
 # hello-world
 I am Avishka.Today I am mastering the basics of github.
 
-#committed2git
+#committed
 
 
 GitHub in 5 steps.
